@@ -2,6 +2,7 @@ import React, {useState} from 'react'
 import './Filter.css'
 import {DropDown} from "../DropDown/DropDown/DropDown";
 import {OptionsIsSterilised, OptionsSex} from "../OptionsForSelect/OptionsForSelect";
+
 import {Input} from "../FormForAdd/Input/Input";
 
 
