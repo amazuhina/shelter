@@ -14,7 +14,6 @@ export const OptionsSex = [
 ]
 
 
-
 export const OptionsIsSterilised = [
     {
         label: 'Не важно',
