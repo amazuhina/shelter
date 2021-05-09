@@ -1,0 +1,32 @@
+.closeForm {
+    cursor: pointer;
+}
+
+
+.dropDownList {
+    width: 90%;
+    display: block;
+    margin-left: 1em;
+}
+
+.ddItem {
+    width: 100%;
+}
+
+
+.closeForm {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+
+.btnToAdd {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+}
+
+.btnImage {
+    width: 80px;
+    height: 80px;
+}

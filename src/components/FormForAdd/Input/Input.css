@@ -1,0 +1,23 @@
+.Input {
+    margin: 0.5em;
+
+}
+
+
+input {
+    background-color: #fff;
+    width: 80%;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+    border-radius: 5px;
+    padding: 1em;
+}
+
+
+label {
+    margin: 0 auto;
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    height: 3em;
+}
